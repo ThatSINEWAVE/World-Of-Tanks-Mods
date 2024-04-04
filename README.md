@@ -4,7 +4,7 @@ Welcome to my GitHub repository for World of Tanks mods! This repository was cre
 
 ## Mod Requests
 
-If you have any issues with the mods or have suggestions for future mods, please contact me via Discord at **sinewave\_** or open a discussion post on this repository.
+If you have any issues with the mods or have suggestions for future mods, please contact me via Discord at **sinewave_** or open a discussion post on this repository.
 
 ## Installation
 
@@ -16,6 +16,16 @@ To install any of the mods, follow these simple steps:
 4. Start the game and enjoy!
 
 **Note:** All mods in this repository are made by me and cannot be shared online or republished without my permission.
+
+## Updates
+
+To make sure you stay up to date with the updates and future mods I publish you can star this repo or follow the individual mods on the wgmods.net website. In the future I will implement a better system to keep users up to date with my work but for now these two options should work perfectly.
+
+### WGMODS URLs:
+- **VK2801_BORSIG**: https://wgmods.net/6688
+- **YOH-7A**: https://wgmods.net/6687
+- **GSOR_MAUS**: https://wgmods.net/6690
+- **GSOR-E100**: https://wgmods.net/6689
 
 ## Repository Structure
 
