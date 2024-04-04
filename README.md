@@ -72,7 +72,7 @@ Additionally, there is a folder called `ALL_MODS` which contains all the mods in
 ### GSOR-E100
 - Mod for the **Tier 8 GSOR 1010** that replaces the standard turret with the turret found on the **Tier 10 E-100**.
 
-- ![GSOR-E100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/7b322950-6f22-4139-a2a1-0af673514a78)
+![GSOR-E100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/7b322950-6f22-4139-a2a1-0af673514a78)
 
 ## Support
 If you would like to support my mods you can just give this repo a star or if you really LOVE my mods you can buy me a coffee via GitHub sponsors or just Ko-Fi.
