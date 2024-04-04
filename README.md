@@ -22,9 +22,9 @@ To install any of the mods, follow these simple steps:
 To make sure you stay up to date with the updates and future mods I publish you can star this repo or follow the individual mods on the wgmods.net website. In the future I will implement a better system to keep users up to date with my work but for now these two options should work perfectly.
 
 ### WGMODS URLs:
-- **VK2801_BORSIG**: https://wgmods.net/6688
+- **VK2801-BORSIG**: https://wgmods.net/6688
 - **YOH-7A**: https://wgmods.net/6687
-- **GSOR_MAUS**: https://wgmods.net/6690
+- **GSOR-MAUS**: https://wgmods.net/6690
 - **GSOR-E100**: https://wgmods.net/6689
 
 ## Repository Structure
