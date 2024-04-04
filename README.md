@@ -17,6 +17,8 @@ To install any of the mods, follow these simple steps:
 
 **Note:** All mods in this repository are made by me and cannot be shared online or republished without my permission.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Updates
 
 To make sure you stay up to date with the updates and future mods I publish you can star this repo or follow the individual mods on the wgmods.net website. In the future I will implement a better system to keep users up to date with my work but for now these two options should work perfectly.
@@ -73,5 +75,3 @@ Additionally, there is a folder called `ALL_MODS` which contains all the mods in
 - Mod for the **Tier 8 GSOR 1010** that replaces the standard turret with the turret found on the **Tier 10 E-100**.
 
 ![GSOR-E100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/7b322950-6f22-4139-a2a1-0af673514a78)
-
-## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
