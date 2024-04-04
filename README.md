@@ -22,23 +22,23 @@ To install any of the mods, follow these simple steps:
 The mods in this repository are organized in the following format:
 
 - Each mod is contained in its own folder, allowing for separate downloads.
-- Within each mod folder, you'll find the mod itself and a short `version.txt` file.
-- The `version.txt` file serves as a reference, providing information about when the mod was last updated, tested, and, if needed, a description of any fixes or changes made.
+- Within each mod folder, you'll find the mod itself and a short `README.md` file.
+- The `README.md` file serves as a reference, providing information about when the mod was last updated, tested, and, if needed, a description of any fixes or changes made.
 
 ### Folders
 
 - `GSOR_MAUS/`
   - `GSOR_MAUS__by_SINEWAVE_.wotmod`
-  - `version.txt`
+  - `README.md`
 - `GSOR-E100/`
   - `GSOR-E100_by_SINEWAVE_.wotmod`
-  - `version.txt`
+  - `README.md`
 - `VK2801_BORSIG/`
   - `VK2801_BORSIG__by_SINEWAVE_.wotmod`
-  - `version.txt`
+  - `README.md`
 - `YOH-7A/`
   - `YOH-7A_by_SINEWAVE_.wotmod`
-  - `version.txt`
+  - `README.md`
 
 Additionally, there is a folder called `ALL_MODS` which contains all the mods in case you want to download everything at once.
 
