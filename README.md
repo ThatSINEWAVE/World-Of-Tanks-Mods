@@ -40,8 +40,6 @@ To make sure you stay up to date with the updates and future mods I publish you 
 | **ALL MODS**      | https://wgmods.net/search/?owner=502673 | 🟢 🟡 🔴 ⚪  |
 | **VK2801-BORSIG** | https://wgmods.net/6688                 | 🟢 PUBLISHED   |
 | **YOH-7A**        | https://wgmods.net/6687                 | 🟡 IN REVIEW   |
-| **GSOR-MAUS**     | https://wgmods.net/6690                 | ⚪ OUTDATED    |
-| **GSOR-E100**     | https://wgmods.net/6689                 | ⚪ OUTDATED    |
 | **NOMAD-183**     | https://wgmods.net/6700                 | 🟡 IN REVIEW   |
 | **NOMAD-4005**    | https://wgmods.net/6699                 | 🟡 IN REVIEW   |
 | **E-75-100**      | https://wgmods.net/6698                 | 🟡 IN REVIEW   |
@@ -72,12 +70,6 @@ The mods in this repository are organized in the following format:
   - `README.md`
 - `YOH-7A/`
   - `YOH-7A_by_SINEWAVE_.wotmod`
-  - `README.md`
-- `GSOR_MAUS/`
-  - `GSOR_MAUS__by_SINEWAVE_.wotmod`
-  - `README.md`
-- `GSOR-E100/`
-  - `GSOR-E100_by_SINEWAVE_.wotmod`
   - `README.md`
 - `NOMAD-183/`
   - `NOMAD-183_by_SINEWAVE_.wotmod`
@@ -114,26 +106,6 @@ Mod for the **Tier 6 VK 28.01 mit 10,5 cm L/28** that replaces the standard turr
 Mod for the **Tier 3 BT-7 art.** that replaces the standard turret with the turret found on the **Tier 10 M-V-Yoh**.
 
 ![YOH-7A_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/486271ac-59f7-4531-b2a4-61a01f016111)
-
-</div>
-
-<div align="center">
-
-### GSOR-MAUS (OUTDATED)
-
-Mod for the **Tier 8 GSOR 1010**. that replaces the standard turret with the turret found on the **Tier 10 Maus**.
-
-![GSOR_MAUS_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/bce8f1e5-4eb0-4bd1-9187-8bda71714861)
-
-</div>
-
-<div align="center">
-
-### GSOR-E100 (OUTDATED)
-
-Mod for the **Tier 8 GSOR 1010** that replaces the standard turret with the turret found on the **Tier 10 E-100**.
-
-![GSOR-E100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/7b322950-6f22-4139-a2a1-0af673514a78)
 
 </div>
 
