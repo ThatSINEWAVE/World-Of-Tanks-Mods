@@ -1,6 +1,10 @@
+<div align="center">
+
 # World of Tanks Mods
 
 Welcome to my GitHub repository for World of Tanks mods! This repository was created because the official WGMods platform from Wargaming takes an incredibly long time to accept new mods. Here, you can find my mods as soon as I finish working on them.
+
+</div>
 
 ## Mod Requests
 
