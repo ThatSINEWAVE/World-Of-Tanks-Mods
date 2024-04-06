@@ -31,4 +31,25 @@
 ![GSOR_MAUS_by_SINEWAVE_1](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/8f3dba59-65b5-401b-b829-f73cd21595f7)
 
 ---
+#### E-75-100 by SINEWAVE_
+**MADE ON VERSION:** 1.24.0.1
+**LAST TESTED ON VERSION:** 1.24.0.1
+
+![E-75-100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/a5d888d3-cc98-4c1d-99bd-bfcc17f38d18)
+
+---
+#### NOMAD-183 by SINEWAVE_
+**MADE ON VERSION:** 1.24.0.1
+**LAST TESTED ON VERSION:** 1.24.0.1
+
+![Nomad-183_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/13366e07-ab30-4127-961f-48a38cbefbfa)
+
+---
+#### NOMAD-4005 by SINEWAVE_
+**MADE ON VERSION:** 1.24.0.1
+**LAST TESTED ON VERSION:** 1.24.0.1
+
+![Nomad-4005_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/3537de32-1049-46df-838d-42e45f54e72d)
+
+---
 </div>
