@@ -37,15 +37,23 @@ To make sure you stay up to date with the updates and future mods I publish you 
 
 | **NAME**          | URL                                     | STATUS         |
 |:-----------------:|:---------------------------------------:|:--------------:|
-| **ALL MODS**      | https://wgmods.net/search/?owner=502673 | 🟢 🟡 🔴       |
+| **ALL MODS**      | https://wgmods.net/search/?owner=502673 | 🟢 🟡 🔴 ⚪  |
 | **VK2801-BORSIG** | https://wgmods.net/6688                 | 🟢 PUBLISHED   |
 | **YOH-7A**        | https://wgmods.net/6687                 | 🟡 IN REVIEW   |
-| **GSOR-MAUS**     | https://wgmods.net/6690                 | 🟢 PUBLISHED   |
-| **GSOR-E100**     | https://wgmods.net/6689                 | 🟡 IN REVIEW   |
+| **GSOR-MAUS**     | https://wgmods.net/6690                 | ⚪ OUTDATED    |
+| **GSOR-E100**     | https://wgmods.net/6689                 | ⚪ OUTDATED    |
 | **NOMAD-183**     | https://wgmods.net/6700                 | 🟡 IN REVIEW   |
 | **NOMAD-4005**    | https://wgmods.net/6699                 | 🟡 IN REVIEW   |
 | **E-75-100**      | https://wgmods.net/6698                 | 🟡 IN REVIEW   |
-| **COMING SOON**   | COMING SOON                             | 🔴 COMING SOON |
+| **COMING SOON**   | COMING SOON                             | ⚪ COMING SOON |
+
+| **STATUS**         | **DESCRIPTION**                                             |
+|:------------------:|:-----------------------------------------------------------:|
+| **🟢 PUBLISHED**   | MOD HAS BEEN PUBLISHED AND IS UP TO DATE ON WGMODS          |
+| **🟡 IN REVIEW**   | MOD IS IN FIRST REVIEW OR THE UPDATE IS WAITING THE REVIEW  |
+| **🔴 DECLINED**    | MOD HAS BEEN DECLINED BY WGMODS AFTER REVIEW                |
+| **⚪ OUTDATED**    | MOD WONT BE UPDATED ANYMORE AND WONT BE PUBLISHED ON WGMODS |
+| **⚪ COMING SOON** | FUTURE MODS OR MODS THAT IM WORKING ON ATM                  |
 
 </div>
 
@@ -111,7 +119,7 @@ Mod for the **Tier 3 BT-7 art.** that replaces the standard turret with the turr
 
 <div align="center">
 
-### GSOR-MAUS
+### GSOR-MAUS (OUTDATED)
 
 Mod for the **Tier 8 GSOR 1010**. that replaces the standard turret with the turret found on the **Tier 10 Maus**.
 
@@ -121,7 +129,7 @@ Mod for the **Tier 8 GSOR 1010**. that replaces the standard turret with the tur
 
 <div align="center">
 
-### GSOR-E100
+### GSOR-E100 (OUTDATED)
 
 Mod for the **Tier 8 GSOR 1010** that replaces the standard turret with the turret found on the **Tier 10 E-100**.
 
