@@ -37,13 +37,13 @@ To make sure you stay up to date with the updates and future mods I publish you 
 
 | **NAME**          | URL                                     | STATUS         |
 |:-----------------:|:---------------------------------------:|:--------------:|
-| **ALL MODS**      | https://wgmods.net/search/?owner=502673 | 🟢 🟡 🔴 ⚪  |
+| **ALL MODS**      | https://wgmods.net/search/?owner=502673 | 🟢 🟡 🔴 🔵 ⚪ |
 | **VK2801-BORSIG** | https://wgmods.net/6688                 | 🟢 PUBLISHED   |
 | **YOH-7A**        | https://wgmods.net/6687                 | 🟡 IN REVIEW   |
 | **NOMAD-183**     | https://wgmods.net/6700                 | 🟡 IN REVIEW   |
 | **NOMAD-4005**    | https://wgmods.net/6699                 | 🟡 IN REVIEW   |
 | **E-75-100**      | https://wgmods.net/6698                 | 🟡 IN REVIEW   |
-| **COMING SOON**   | COMING SOON                             | ⚪ COMING SOON |
+| **COMING SOON**   | COMING SOON                             | 🔵 COMING SOON |
 
 | **STATUS**         | **DESCRIPTION**                                             |
 |:------------------:|:-----------------------------------------------------------:|
@@ -51,7 +51,7 @@ To make sure you stay up to date with the updates and future mods I publish you 
 | **🟡 IN REVIEW**   | MOD IS IN FIRST REVIEW OR THE UPDATE IS WAITING THE REVIEW  |
 | **🔴 DECLINED**    | MOD HAS BEEN DECLINED BY WGMODS AFTER REVIEW                |
 | **⚪ OUTDATED**    | MOD WONT BE UPDATED ANYMORE AND WONT BE PUBLISHED ON WGMODS |
-| **⚪ COMING SOON** | FUTURE MODS OR MODS THAT IM WORKING ON ATM                  |
+| **🔵 COMING SOON** | FUTURE MODS OR MODS THAT IM WORKING ON ATM                  |
 
 </div>
 
