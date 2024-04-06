@@ -107,3 +107,33 @@ Mod for the **Tier 8 GSOR 1010** that replaces the standard turret with the turr
 ![GSOR-E100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/7b322950-6f22-4139-a2a1-0af673514a78)
 
 </div>
+
+<div align="center">
+
+### E-75-100
+
+Mod for the **Tier 9 E-75** that replaces the standard hull with the hull found on the **Tier 10 E-100**. 
+
+![E-75-100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/51bf4054-4439-43cb-831b-41a7df6b5a93)
+
+</div>
+
+<div align="center">
+
+### NOMAD-4005
+
+Mod for the **Tier 8 Nomad** that replaces the standard turret with the turret found on the **Tier 10 FV4005**.
+
+![Nomad-4005_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/277d4981-d0d8-4c4c-8532-77ff9f410358)
+
+</div>
+
+<div align="center">
+
+### NOMAD-183
+
+Mod for the **Tier 8 Nomad** that replaces the standard gun with the gun found on the **Tier 10 FV4005**.
+
+![Nomad-183_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/c9bb901d-e84e-431e-85d3-ec5f2f822230)
+
+</div>
