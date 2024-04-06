@@ -31,18 +31,23 @@ To install any of the mods, follow these simple steps:
 
 To make sure you stay up to date with the updates and future mods I publish you can star this repo or follow the individual mods on the wgmods.net website. In the future I will implement a better system to keep users up to date with my work but for now these two options should work perfectly.
 
+<div align="center">
+
 ### WGMODS URLs:
 
-|NAME|URL|STATUS|
-| - | - | - |
-| VK2801-BORSIG | https://wgmods.net/6688 | 🟢 PUBLISHED |
-| YOH-7A | https://wgmods.net/6687 | 🟡 IN REVIEW |
-| GSOR-MAUS | https://wgmods.net/6690 | 🟢 PUBLISHED |
-| GSOR-E100 | https://wgmods.net/6689 | 🟡 IN REVIEW |
-| NOMAD-183 | https://wgmods.net/6700 | 🟡 IN REVIEW |
-| NOMAD-4005 | https://wgmods.net/6699 | 🟡 IN REVIEW |
-| E-75-100 | https://wgmods.net/6698 | 🟡 IN REVIEW |
-| COMING SOON | COMING SOON | 🔴 COMING SOON |
+| **NAME**          | URL                                     | STATUS         |
+|:-----------------:|:---------------------------------------:|:--------------:|
+| **ALL MODS**      | https://wgmods.net/search/?owner=502673 | 🟢 🟡 🔴       |
+| **VK2801-BORSIG** | https://wgmods.net/6688                 | 🟢 PUBLISHED   |
+| **YOH-7A**        | https://wgmods.net/6687                 | 🟡 IN REVIEW   |
+| **GSOR-MAUS**     | https://wgmods.net/6690                 | 🟢 PUBLISHED   |
+| **GSOR-E100**     | https://wgmods.net/6689                 | 🟡 IN REVIEW   |
+| **NOMAD-183**     | https://wgmods.net/6700                 | 🟡 IN REVIEW   |
+| **NOMAD-4005**    | https://wgmods.net/6699                 | 🟡 IN REVIEW   |
+| **E-75-100**      | https://wgmods.net/6698                 | 🟡 IN REVIEW   |
+| **COMING SOON**   | COMING SOON                             | 🔴 COMING SOON |
+
+</div>
 
 ## Repository Structure
 
