@@ -17,7 +17,11 @@ To install any of the mods, follow these simple steps:
 
 **Note:** All mods in this repository are made by me and cannot be shared online or republished without my permission.
 
+<div align="center">
+
 ## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Updates
 
@@ -54,24 +58,48 @@ The mods in this repository are organized in the following format:
 
 Additionally, there is a folder called `ALL_MODS` which contains all the mods in case you want to download everything at once.
 
+<div align="center">
+
 ## Individual mods
 
+</div>
+
+<div align="center">
+
 ### VK2801 BORSIG
-- Mod for the **Tier 6 VK 28.01 mit 10,5 cm L/28** that replaces the standard turret with the turret found on the **Tier 8 Rhm.-Borsig Waffenträger**.
+
+Mod for the **Tier 6 VK 28.01 mit 10,5 cm L/28** that replaces the standard turret with the turret found on the **Tier 8 Rhm.-Borsig Waffenträger**.
 
 ![VK2801_BORSIG_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/f12e318f-6644-4a64-9fc2-cfa831677981)
 
+</div>
+
+<div align="center">
+
 ### YOH-7A
-- Mod for the **Tier 3 BT-7 art.** that replaces the standard turret with the turret found on the **Tier 10 M-V-Yoh**.
+
+Mod for the **Tier 3 BT-7 art.** that replaces the standard turret with the turret found on the **Tier 10 M-V-Yoh**.
 
 ![YOH-7A_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/486271ac-59f7-4531-b2a4-61a01f016111)
 
-### GSOR_MAUS
-- Mod for the **Tier 8 GSOR 1010**. that replaces the standard turret with the turret found on the **Tier 10 Maus**.
+</div>
+
+<div align="center">
+
+### GSOR-MAUS
+
+Mod for the **Tier 8 GSOR 1010**. that replaces the standard turret with the turret found on the **Tier 10 Maus**.
 
 ![GSOR_MAUS_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/bce8f1e5-4eb0-4bd1-9187-8bda71714861)
 
+</div>
+
+<div align="center">
+
 ### GSOR-E100
-- Mod for the **Tier 8 GSOR 1010** that replaces the standard turret with the turret found on the **Tier 10 E-100**.
+
+Mod for the **Tier 8 GSOR 1010** that replaces the standard turret with the turret found on the **Tier 10 E-100**.
 
 ![GSOR-E100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/7b322950-6f22-4139-a2a1-0af673514a78)
+
+</div>
