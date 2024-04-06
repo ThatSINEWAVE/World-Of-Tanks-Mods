@@ -59,6 +59,15 @@ The mods in this repository are organized in the following format:
 - `GSOR-E100/`
   - `GSOR-E100_by_SINEWAVE_.wotmod`
   - `README.md`
+- `NOMAD-183/`
+  - `NOMAD-183_by_SINEWAVE_.wotmod`
+  - `README.md`
+- `NOMAD-4005/`
+  - `NOMAD-4005_by_SINEWAVE_.wotmod`
+  - `README.md`
+- `E-75-100/`
+  - `GSOR-E100_by_SINEWAVE_.wotmod`
+  - `README.md` 
 
 Additionally, there is a folder called `ALL_MODS` which contains all the mods in case you want to download everything at once.
 
