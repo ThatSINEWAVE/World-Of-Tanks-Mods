@@ -42,7 +42,7 @@
 **MADE ON VERSION:** 1.24.1.0
 **LAST TESTED ON VERSION:** 1.24.1.0
 
-![Nomad-4005_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/3537de32-1049-46df-838d-42e45f54e72d)
+![Grille-240_by_SINEWAVE_1](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/a4b442d0-20ec-4809-9af3-6992faf9632a)
 
 ---
 </div>
