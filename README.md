@@ -42,6 +42,7 @@ To make sure you stay up to date with the updates and future mods I publish you 
 | **YOH-7A**        | https://wgmods.net/6687                 | 🟢 PUBLISHED   |
 | **NOMAD-183**     | https://wgmods.net/6700                 | 🟡 IN REVIEW   |
 | **NOMAD-4005**    | https://wgmods.net/6699                 | 🟡 IN REVIEW   |
+| **GRILLE-240**    | https://wgmods.net/6702                 | 🟡 IN REVIEW   |
 | **E-75-100**      | https://wgmods.net/6698                 | 🟢 PUBLISHED   |
 | **COMING SOON**   | COMING SOON                             | 🔵 COMING SOON |
 
@@ -80,6 +81,9 @@ The mods in this repository are organized in the following format:
 - `E-75-100/`
   - `GSOR-E100_by_SINEWAVE_.wotmod`
   - `README.md` 
+- `GRILLE-240/`
+  - `GRILLE-240_by_SINEWAVE_.wotmod`
+  - `README.md` 
 
 Additionally, there is a folder called `ALL_MODS` which contains all the mods in case you want to download everything at once.
 
@@ -93,7 +97,7 @@ Additionally, there is a folder called `ALL_MODS` which contains all the mods in
 
 ### VK2801 BORSIG
 
-Mod for the **Tier 6 VK 28.01 mit 10,5 cm L/28** that replaces the standard turret with the turret found on the **Tier 8 Rhm.-Borsig Waffenträger**.
+Mod for the **Tier 6 VK 28.01 mit 10,5 cm L/28** that replaces the standard turret & gun with the turret & gun found on the **Tier 8 Rhm.-Borsig Waffenträger**.
 
 ![VK2801_BORSIG_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/f12e318f-6644-4a64-9fc2-cfa831677981)
 
@@ -103,7 +107,7 @@ Mod for the **Tier 6 VK 28.01 mit 10,5 cm L/28** that replaces the standard turr
 
 ### YOH-7A
 
-Mod for the **Tier 3 BT-7 art.** that replaces the standard turret with the turret found on the **Tier 10 M-V-Yoh**.
+Mod for the **Tier 3 BT-7 art.** that replaces the standard turrets & guns with the turret & gun found on the **Tier 10 M-V-Yoh**.
 
 ![YOH-7A_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/486271ac-59f7-4531-b2a4-61a01f016111)
 
@@ -123,7 +127,7 @@ Mod for the **Tier 9 E-75** that replaces the standard hull with the hull found 
 
 ### NOMAD-4005
 
-Mod for the **Tier 8 Nomad** that replaces the standard turret with the turret found on the **Tier 10 FV4005**.
+Mod for the **Tier 8 Nomad** that replaces the standard turret & gun with the turret & gun found on the **Tier 10 FV4005**.
 
 ![Nomad-4005_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/277d4981-d0d8-4c4c-8532-77ff9f410358)
 
@@ -134,6 +138,16 @@ Mod for the **Tier 8 Nomad** that replaces the standard turret with the turret f
 ### NOMAD-183
 
 Mod for the **Tier 8 Nomad** that replaces the standard gun with the gun found on the **Tier 10 FV4005**.
+
+![Nomad-183_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/c9bb901d-e84e-431e-85d3-ec5f2f822230)
+
+</div>
+
+<div align="center">
+
+### GRILLE-240
+
+Mod for the **Tier 10 Grille-15** that replaces the standard gun & turret with the gun & turret found on the **Tier 10 T92 HMC**.
 
 ![Nomad-183_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/c9bb901d-e84e-431e-85d3-ec5f2f822230)
 
