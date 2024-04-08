@@ -33,7 +33,7 @@ To make sure you stay up to date with the updates and future mods I publish you 
 
 <div align="center">
 
-### WGMODS.NET
+### WGMODS
 
 | **NAME**          | **URLs**                                | **STATUS**     |
 |:-----------------:|:---------------------------------------:|:--------------:|
