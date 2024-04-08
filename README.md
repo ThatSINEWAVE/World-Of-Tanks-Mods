@@ -149,6 +149,6 @@ Mod for the **Tier 8 Nomad** that replaces the standard gun with the gun found o
 
 Mod for the **Tier 10 Grille-15** that replaces the standard gun & turret with the gun & turret found on the **Tier 10 T92 HMC**.
 
-![Nomad-183_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/c9bb901d-e84e-431e-85d3-ec5f2f822230)
+![Grille-240_by_SINEWAVE_1](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/114f8f4d-7066-42b8-98ed-577e2e466a81)
 
 </div>
