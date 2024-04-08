@@ -4,6 +4,6 @@
 ### MADE ON VERSION: 1.24.1.0
 ### LAST TESTED ON VERSION: 1.24.1.0
 
-![E-75-100_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/ff6c2e46-0542-46d0-908a-762102175b9e)
+![Grille-240_by_SINEWAVE_1](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/fbdac18a-a55e-499c-81fd-e47343e100f4)
 
 </div>
