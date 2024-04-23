@@ -46,6 +46,12 @@ To make sure you stay up to date with the updates and future mods I publish you 
 | **E-75-100**      | https://wgmods.net/6698                 | 🟢 PUBLISHED   |
 | **COMING SOON**   | COMING SOON                             | 🔵 COMING SOON |
 
+<div align="center">
+
+# [Join my discord server!](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ### CURSEFORGE
 
 | **NAME**            | **URLs**                                                                                               |
