@@ -41,7 +41,7 @@ To make sure you stay up to date with the updates and future mods I publish you 
 | **VK2801-BORSIG** | https://wgmods.net/6688                 | 🟢 PUBLISHED   |
 | **YOH-7A**        | https://wgmods.net/6687                 | 🟢 PUBLISHED   |
 | **NOMAD-183**     | https://wgmods.net/6700                 | 🟡 IN REVIEW   |
-| **NOMAD-4005**    | https://wgmods.net/6699                 | 🟡 IN REVIEW   |
+| **NOMAD-4005**    | https://wgmods.net/6699                 | 🟢 PUBLISHED   |
 | **GRILLE-240**    | https://wgmods.net/6702                 | 🟡 IN REVIEW   |
 | **E-75-100**      | https://wgmods.net/6698                 | 🟢 PUBLISHED   |
 | **COMING SOON**   | COMING SOON                             | 🔵 COMING SOON |
