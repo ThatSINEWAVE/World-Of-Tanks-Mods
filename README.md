@@ -44,6 +44,7 @@ To make sure you stay up to date with the updates and future mods I publish you 
 | **NOMAD-4005**    | https://wgmods.net/6699                 | 🟢 PUBLISHED   |
 | **GRILLE-240**    | https://wgmods.net/6702                 | 🟡 IN REVIEW   |
 | **E-75-100**      | https://wgmods.net/6698                 | 🟢 PUBLISHED   |
+| **MAUS-100**      | https://wgmods.net/6746                 | 🟡 IN REVIEW   |
 | **COMING SOON**   | COMING SOON                             | 🔵 COMING SOON |
 
 <div align="center">
@@ -92,6 +93,9 @@ The mods in this repository are organized in the following format:
 - `YOH-7A/`
   - `YOH-7A_by_SINEWAVE_.wotmod`
   - `README.md`
+- `MAUS-100/`
+  - `MAUS-100_by_SINEWAVE_.wotmod`
+  - `README.md`
 - `NOMAD-183/`
   - `NOMAD-183_by_SINEWAVE_.wotmod`
   - `README.md`
@@ -124,6 +128,14 @@ Mod for the **Tier 6 VK 28.01 mit 10,5 cm L/28** that replaces the standard turr
 </div>
 
 <div align="center">
+
+### MAUS-100
+
+Mod for the **Tier 10 Maus** that replaces the standard turret and gun with the turret and gun found on the **Tier 10 E100**.
+
+![YOH-7A_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/486271ac-59f7-4531-b2a4-61a01f016111)
+
+</div>
 
 ### YOH-7A
 
