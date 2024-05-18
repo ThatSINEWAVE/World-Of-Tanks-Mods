@@ -133,7 +133,7 @@ Mod for the **Tier 6 VK 28.01 mit 10,5 cm L/28** that replaces the standard turr
 
 Mod for the **Tier 10 Maus** that replaces the standard turret and gun with the turret and gun found on the **Tier 10 E100**.
 
-![YOH-7A_by_SINEWAVE_](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/486271ac-59f7-4531-b2a4-61a01f016111)
+![MAUS-100](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/e75b78c7-9df6-4980-8e63-2145d8d27e33)
 
 </div>
 
