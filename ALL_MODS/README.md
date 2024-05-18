@@ -14,7 +14,7 @@
 **MADE ON VERSION:** 1.24.1.2
 **LAST TESTED ON VERSION:** 1.24.1.2
 
-![YOH-7A_by_SINEWAVE_1](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/3fbd3862-e245-4b25-a7b6-fd7a5fcc531d)
+![MAUS-100](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/79ac9bb1-a0fe-41fd-8f31-ceb96245a2ab)
 
 ---
 #### YOH-7A by SINEWAVE_
