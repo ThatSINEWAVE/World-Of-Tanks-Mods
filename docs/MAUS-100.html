@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mod Name</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="site-data/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="site-data/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="site-data/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="site-data/favicon-16x16.png">
+    <link rel="manifest" href="site-data/site.webmanifest">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>World of Tanks Mods Showcase</h1>
+        <div class="buttons">
+          <a href="https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods" class="btn">
+            <i class="fab fa-github"></i> GitHub </a>
+          <a href="https://ko-fi.com/thatsinewave" class="btn">
+            <i class="fas fa-heart"></i> Support Me </a>
+          <a href="https://discord.com/invite/2nHHHBWNDw" class="btn">
+            <i class="fab fa-discord"></i> Discord </a>
+          <button id="themeBtn" class="btn">
+            <i class="fas fa-moon"></i> Dark </button>
+        </div>
+      </header>
+      <main>
+        <div class="mod-header">
+          <h2>MAUS-100 Model Remix</h2>
+          <a href="#" id="downloadBtn" class="btn">
+            <i class="fas fa-download"></i> Download </a>
+        </div>
+        <img id="mainImage" src="https://i.imgur.com/1iBIVI7.png" alt="Main Image">
+        <p id="modDescription"> Description goes here </p>
+        <div id="screenshotGrid" class="screenshot-grid">
+          <div class="screenshot">
+            <img src="https://i.imgur.com/1iBIVI7.png" alt="Screenshot 1">
+          </div>
+          <div class="screenshot">
+            <img src="https://i.imgur.com/1iBIVI7.png" alt="Screenshot 2">
+          </div>
+          <div class="screenshot">
+            <img src="https://i.imgur.com/1iBIVI7.png" alt="Screenshot 3">
+          </div>
+          <div class="screenshot">
+            <img src="https://i.imgur.com/1iBIVI7.png" alt="Screenshot 4">
+          </div>
+        </div>
+      </main>
+      <div id="screenshotModal" class="modal">
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <img id="modalImage" src="" alt="Modal Image">
+          <div class="modal-nav">
+            <a href="#" id="prevBtn">
+              <i class="fas fa-arrow-left"></i>
+            </a>
+            <a href="#" id="nextBtn">
+              <i class="fas fa-arrow-right"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+      <footer>
+        <p>&copy; World of Tanks Mods Showcase</p>
+      </footer>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
