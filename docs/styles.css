@@ -28,7 +28,7 @@ body.light-mode {
 
 /* Dark theme */
 body.dark-mode {
-	background-color: #212121;
+	background-color: #2a2c2e;
 	color: #f8f8f8;
 }
 
@@ -54,12 +54,13 @@ header {
 	justify-content: space-between;
 	align-items: center;
 	padding: 1rem;
-	background-color: #333;
+	background-color: #1e1f22;
 	color: #fff;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
 }
 
 body.dark-mode header {
-	background-color: #212121;
+	background-color: #1e1f22;
 }
 
 .buttons {
@@ -72,20 +73,28 @@ body.dark-mode header {
 	align-items: center;
 	gap: 0.5rem;
 	padding: 0.5rem 1rem;
-	background-color: #555;
-	color: #fff;
+	background-color: #fff;
+	color: #000;
 	border: none;
 	border-radius: 4px;
 	cursor: pointer;
 	transition: background-color 0.3s;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 body.dark-mode .btn {
-	background-color: #555;
+    color: #fff;
+	background-color: #2a2c2e;
 }
 
 .btn:hover {
-	background-color: #777;
+    color: #000;
+	background-color: #cbcbcb;
+}
+
+body.dark-mode .btn:hover {
+    color: #fff;
+	background-color: #43454a;
 }
 
 /* Mod header styles */
@@ -95,16 +104,18 @@ body.dark-mode .btn {
 	align-items: center;
 	padding: 1rem;
 	max-width: 800px;
-	background-color: #fff;
+	background-color: #1e1f22;
+	color: #fff;
 	margin: 0 auto;
 	border-top-left-radius: 8px;
 	border-top-right-radius: 8px;
 	border-bottom-left-radius: 0;
 	border-bottom-right-radius: 0;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
 }
 
 body.dark-mode .mod-header {
-	background-color: #424242;
+	background-color: #1e1f22;
 	border-bottom: 1px solid #555;
 }
 
@@ -119,7 +130,7 @@ body.dark-mode .mod-header {
 }
 
 ::-webkit-scrollbar-track {
-  background-color: #333;
+  background-color: #1e1f22;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -137,7 +148,7 @@ body.dark-mode::-webkit-scrollbar {
 }
 
 body.dark-mode::-webkit-scrollbar-track {
-  background-color: #212121;
+  background-color: #1e1f22;
 }
 
 body.dark-mode::-webkit-scrollbar-thumb {
@@ -163,6 +174,7 @@ main {
 	border-top-right-radius: 0;
 	border-bottom-left-radius: 8px;
 	border-bottom-right-radius: 8px;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
 }
 
 #modDescription {
@@ -302,6 +314,7 @@ footer {
 	color: #fff;
 	text-align: center;
 	padding: 1rem;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
 }
 
 body.dark-mode footer {
