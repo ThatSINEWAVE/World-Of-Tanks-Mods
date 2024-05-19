@@ -181,21 +181,28 @@ main {
 	max-width: 800px;
 	margin: 1rem auto;
 	text-align: center;
-	color: #777;
+	color: #000;
 }
 
 #modVersion {
 	max-width: 800px;
 	margin: 0rem auto;
 	text-align: center;
-	color: #777;
+	color: #000;
 }
 
 #modTest {
 	max-width: 800px;
 	margin: 1rem auto;
 	text-align: center;
-	color: #777;
+	color: #000;
+}
+
+#modScreenshots {
+	max-width: 800px;
+	margin: 1rem auto;
+	text-align: center;
+	color: #000;
 }
 
 body.dark-mode #modDescription {
@@ -207,6 +214,10 @@ body.dark-mode #modVersion {
 }
 
 body.dark-mode #modTest {
+	color: #bbb;
+}
+
+body.dark-mode #modScreenshots {
 	color: #bbb;
 }
 
