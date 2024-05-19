@@ -410,3 +410,14 @@ body.dark-mode .close:focus {
 body.dark-mode .modal-nav a {
 	color: #ccc;
 }
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .buttons {
+    margin-top: 1rem;
+  }
+}
