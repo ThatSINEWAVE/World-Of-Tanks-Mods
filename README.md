@@ -1,6 +1,6 @@
 <div align="center">
 
-# World of Tanks Mods
+# [World of Tanks Mods](https://thatsinewave.github.io/World-Of-Tanks-Mods/)
 
 Welcome to my GitHub repository for World of Tanks mods! This repository was created because the official WGMods platform from Wargaming takes an incredibly long time to accept new mods. Here, you can find my mods as soon as I finish working on them.
 
@@ -35,17 +35,17 @@ To make sure you stay up to date with the updates and future mods I publish you 
 
 ### WGMODS
 
-| **NAME**          | **URLs**                                | **STATUS**     |
+|     **NAME**      |                **URLs**                 |   **STATUS**   |
 |:-----------------:|:---------------------------------------:|:--------------:|
-| **ALL MODS**      | https://wgmods.net/search/?owner=502673 | 🟢 🟡 🔴 🔵 ⚪ |
-| **VK2801-BORSIG** | https://wgmods.net/6688                 | 🟢 PUBLISHED   |
-| **YOH-7A**        | https://wgmods.net/6687                 | 🟢 PUBLISHED   |
-| **NOMAD-183**     | https://wgmods.net/6700                 | 🟡 IN REVIEW   |
-| **NOMAD-4005**    | https://wgmods.net/6699                 | 🟢 PUBLISHED   |
-| **GRILLE-240**    | https://wgmods.net/6702                 | 🟡 IN REVIEW   |
-| **E-75-100**      | https://wgmods.net/6698                 | 🟢 PUBLISHED   |
-| **MAUS-100**      | https://wgmods.net/6746                 | 🟡 IN REVIEW   |
-| **COMING SOON**   | COMING SOON                             | 🔵 COMING SOON |
+|   **ALL MODS**    | https://wgmods.net/search/?owner=502673 | 🟢 🟡 🔴 🔵 ⚪  |
+| **VK2801-BORSIG** |         https://wgmods.net/6688         |  🟢 PUBLISHED  |
+|    **YOH-7A**     |         https://wgmods.net/6687         |  🟢 PUBLISHED  |
+|   **NOMAD-183**   |         https://wgmods.net/6700         |  🟡 IN REVIEW  |
+|  **NOMAD-4005**   |         https://wgmods.net/6699         |  🟢 PUBLISHED  |
+|  **GRILLE-240**   |         https://wgmods.net/6702         |  🟡 IN REVIEW  |
+|   **E-75-100**    |         https://wgmods.net/6698         |  🟢 PUBLISHED  |
+|   **MAUS-100**    |         https://wgmods.net/6746         |  🟡 IN REVIEW  |
+|  **COMING SOON**  |               COMING SOON               | 🔵 COMING SOON |
 
 <div align="center">
 
@@ -55,25 +55,25 @@ To make sure you stay up to date with the updates and future mods I publish you 
 
 ### CURSEFORGE
 
-| **NAME**            | **URLs**                                                                                               |
+|      **NAME**       |                                                **URLs**                                                |
 |:-------------------:|:------------------------------------------------------------------------------------------------------:|
-| **ALL MODS**        | https://legacy.curseforge.com/members/sinewave_/projects                                               |
-| **E-75-100**        | https://legacy.curseforge.com/worldoftanks/wot-mods/e-75-100-model-remix-e-100-hull-e-75-turrets-guns  |
-| **Grille-240**      | https://legacy.curseforge.com/worldoftanks/wot-mods/grille-240-model-remix-grille-15-hull-t92-hmc-gun  |
-| **Nomad-183**       | https://legacy.curseforge.com/worldoftanks/wot-mods/nomad-183-model-remix-nomad-hull-turret-fv4005-gun |
-| **Nomad-4005**      | https://legacy.curseforge.com/worldoftanks/wot-mods/nomad-4005-model-remix-nomad-hull-fv4005-turret    |
-| **VK.28.01 Borsig** | https://legacy.curseforge.com/worldoftanks/wot-mods/vk-28-01-borsig-model-remix-vk-28-01-105-hull      |
-| **YOH-7A**          | https://legacy.curseforge.com/worldoftanks/wot-mods/yoh-7a-model-remix-bt-7a-hull-m-v-yoh-turret       |
+|    **ALL MODS**     |                        https://legacy.curseforge.com/members/sinewave_/projects                        |
+|    **E-75-100**     | https://legacy.curseforge.com/worldoftanks/wot-mods/e-75-100-model-remix-e-100-hull-e-75-turrets-guns  |
+|   **Grille-240**    | https://legacy.curseforge.com/worldoftanks/wot-mods/grille-240-model-remix-grille-15-hull-t92-hmc-gun  |
+|    **Nomad-183**    | https://legacy.curseforge.com/worldoftanks/wot-mods/nomad-183-model-remix-nomad-hull-turret-fv4005-gun |
+|   **Nomad-4005**    |  https://legacy.curseforge.com/worldoftanks/wot-mods/nomad-4005-model-remix-nomad-hull-fv4005-turret   |
+| **VK.28.01 Borsig** |   https://legacy.curseforge.com/worldoftanks/wot-mods/vk-28-01-borsig-model-remix-vk-28-01-105-hull    |
+|     **YOH-7A**      |    https://legacy.curseforge.com/worldoftanks/wot-mods/yoh-7a-model-remix-bt-7a-hull-m-v-yoh-turret    |
 
 ### STATUS DESCRIPTIONS
 
-| **STATUS**         | **DESCRIPTION**                                             |
-|:------------------:|:-----------------------------------------------------------:|
-| **🟢 PUBLISHED**   | MOD HAS BEEN PUBLISHED AND IS UP TO DATE                    |
-| **🟡 IN REVIEW**   | MOD IS IN FIRST REVIEW OR THE UPDATE IS WAITING THE REVIEW  |
-| **🔴 DECLINED**    | MOD HAS BEEN DECLINED AFTER REVIEW                          |
-| **⚪ OUTDATED**    | MOD WONT BE UPDATED ANYMORE AND WONT BE PUBLISHED ON        |
-| **🔵 COMING SOON** | FUTURE MODS OR MODS THAT IM WORKING ON ATM                  |
+|     **STATUS**     |                      **DESCRIPTION**                       |
+|:------------------:|:----------------------------------------------------------:|
+|  **🟢 PUBLISHED**  |          MOD HAS BEEN PUBLISHED AND IS UP TO DATE          |
+|  **🟡 IN REVIEW**  | MOD IS IN FIRST REVIEW OR THE UPDATE IS WAITING THE REVIEW |
+|  **🔴 DECLINED**   |             MOD HAS BEEN DECLINED AFTER REVIEW             |
+|   **⚪ OUTDATED**   |    MOD WONT BE UPDATED ANYMORE AND WONT BE PUBLISHED ON    |
+| **🔵 COMING SOON** |         FUTURE MODS OR MODS THAT IM WORKING ON ATM         |
 
 </div>
 
@@ -136,6 +136,8 @@ Mod for the **Tier 10 Maus** that replaces the standard turret and gun with the 
 ![MAUS-100](https://github.com/ThatSINEWAVE/World-Of-Tanks-Mods/assets/133239148/e75b78c7-9df6-4980-8e63-2145d8d27e33)
 
 </div>
+
+<div align="center">
 
 ### YOH-7A
 
