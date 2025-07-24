@@ -49,7 +49,7 @@ To make sure you stay up to date with the updates and future mods I publish you 
 
 <div align="center">
 
-# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://thatsinewave.github.io/Discord-Redirect/)
 
 </div>
 
